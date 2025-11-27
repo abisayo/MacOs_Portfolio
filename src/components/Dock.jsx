@@ -59,7 +59,7 @@ const Dock = () => {
     }, []);
 
     const toggleApp = (app) => {
-        if(!app.canOpen) return () => {};
+        if(!app.canOpen) return;
 
         const window = windows[app.id];
 
