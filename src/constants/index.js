@@ -105,24 +105,24 @@ const techStack = [
         items: ["React.js", "Next.js", "TypeScript"],
     },
     {
-        category: "Mobile",
-        items: ["React Native", "Expo"],
+        category: "CMS",
+        items: ["Wordpress", "Shopify", "Umbraco"],
     },
     {
         category: "Styling",
         items: ["Tailwind CSS", "Sass", "CSS"],
     },
     {
-        category: "Backend",
-        items: ["Node.js", "Express", "NestJS", "Hono"],
+        category: "UI/UX",
+        items: ["Figma"],
     },
     {
-        category: "Database",
-        items: ["MongoDB", "PostgreSQL"],
+        category: "Graphics",
+        items: ["Photoshop", "Illustrator"],
     },
     {
         category: "Dev Tools",
-        items: ["Git", "GitHub", "Docker"],
+        items: ["Git", "GitHub"],
     },
 ];
 
